@@ -5,7 +5,7 @@ Use fictional patient records only. Do not use this application for real care.
 """
 
 import json
-import os
+
 from datetime import date, datetime, time, timedelta
 from typing import Literal
 
